@@ -63,5 +63,19 @@ nav a {
   color: darkgreen;
 }
 
+#contact {
+  background-color: #f4f4f4;
+  text-align: center;
+  padding: 30px 20px;
+}
+
+footer {
+  background-color: darkgreen;
+  color: white;
+  text-align: center;
+  padding: 15px;
+}
+
+
 
 
